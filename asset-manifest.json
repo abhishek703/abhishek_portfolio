@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abhishek_portfolio/static/css/main.11713806.css",
+    "main.js": "/abhishek_portfolio/static/js/main.134809ec.js",
+    "static/media/Gridlinesbuilders.png": "/abhishek_portfolio/static/media/Gridlinesbuilders.bac0cdadbffc0281f1ea.png",
+    "static/media/Charlestown-Pizza.png": "/abhishek_portfolio/static/media/Charlestown-Pizza.cb953f34b643e5344c72.png",
+    "static/media/Admin-Panel-Dashboard.png": "/abhishek_portfolio/static/media/Admin-Panel-Dashboard.3dbdce2e9f071d0fe669.png",
+    "static/media/web-removebg-preview.png": "/abhishek_portfolio/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/abhishek_portfolio/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/olx-clone image.png": "/abhishek_portfolio/static/media/olx-clone image.158ea39af4274504adfe.png",
+    "static/media/React-App-netflix-clone.png": "/abhishek_portfolio/static/media/React-App-netflix-clone.15dff5e669bd224de914.png",
+    "static/media/logor.png": "/abhishek_portfolio/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/todolist.png": "/abhishek_portfolio/static/media/todolist.0712af9987c72278ef83.png",
+    "static/media/bars.svg": "/abhishek_portfolio/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/abhishek_portfolio/index.html",
+    "main.11713806.css.map": "/abhishek_portfolio/static/css/main.11713806.css.map",
+    "main.134809ec.js.map": "/abhishek_portfolio/static/js/main.134809ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11713806.css",
+    "static/js/main.134809ec.js"
+  ]
+}
